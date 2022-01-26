@@ -1,7 +1,6 @@
-# BarAbsence
-Absence With barcode 
+#JavaSwing
+Teacher Absence System With Barcode Scan
 =========================
-pengabdian skuy 
-akwoakwoaKWAOWKAOWKAOW
+
 =========================
 
